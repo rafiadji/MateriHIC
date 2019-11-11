@@ -1,3 +1,3 @@
 # Materi Arduino
-- [Komponen Dasar](www.google.com)
+- [Komponen Dasar](KomponenDasar/awal.md)
 - [Arduino](www.google.com)
