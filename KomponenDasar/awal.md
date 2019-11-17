@@ -4,7 +4,7 @@ Komponen dasar elektro
 
 Berikut komponen dasar elektro
 - [Resistor](resistor.md)
-- [Condensator / Kapasitor]()
-- [Dioda]()
-- [Transistor]()
-- [Transformotor (Trafo)]()
+- [Condensator / Kapasitor](kodensator.md)
+- [Dioda](dioda.md)
+- [Transistor](transistor.md)
+- [Transformotor (Trafo)](trafo.md)

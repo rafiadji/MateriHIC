@@ -1,6 +1,6 @@
-# Resistor
+# Transistor
 
-- [Resistor](#resistor)
+- [Transistor](#transistor)
   - [Resistor dengan nilai tetap](#resistor-dengan-nilai-tetap)
     - [Daftar Gelang Warna](#daftar-gelang-warna)
   - [Resistor dengan nilai berubah - ubah](#resistor-dengan-nilai-berubah---ubah)
@@ -9,7 +9,9 @@
     - [Resistor LDR (Light Dependent Resistor)](#resistor-ldr-light-dependent-resistor)
 
 
-Resistor adalah komponen elektro yang memiliki fungsi sebagai penghambat tegangan. Resistor memiliki lambang ***R*** dengan satuan ***ohm***. 
+Transistor adalah komponen elektronika semikonduktor yang memiliki 3 kaki elektroda, yaitu Basis (Dasar), Kolektor (Pengumpul) dan Emitor (Pemancar). Komponen ini berfungsi sebagai penguat, pemutus dan penyambung (switching), stabilitasi tegangan, modulasi sinyal dan masih banyak lagi fungsi lainnya. Selain itu, transistor juga dapat digunakan sebagai kran listrik sehingga dapat mengalirkan listrik dengan sangat akurat dan sumber listriknya.
+
+Transistor sebenarnya berasal dari kata “transfer” yang berarti pemindahan dan “resistor” yang berarti penghambat. Dari kedua kata tersebut dapat kita simpulkan, pengertian Transistor adalah pemindahan atau peralihan bahan setengah penghantar menjadi suhu tertentu.
 
 Resistor memiliki 2 jenis :
 
